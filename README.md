@@ -14,4 +14,4 @@ stat-009 - Normal distributions visualization<br>
 stat-010 - Visualization by using Seaborn<br>
 stat-011 - Application to real-world data (Coffee chain_margin analysis)<br>
 stat-012 - Codes for calculating statistical distributions<br>
-stat-013 - Three subset selection methods (Best Subset, Forward stepwise, Backward Stepwise)
+stat-013 - Three subset selection methods (Best Subset, Forward Stepwise, Backward Stepwise)
